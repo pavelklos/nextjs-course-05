@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "title": "Product 1 [fs]",
+      "description": "This is product 1 [fs]"
+    },
+    {
+      "id": "p2",
+      "title": "Product 2 [fs]",
+      "description": "This is product 2 [fs]"
+    },
+    {
+      "id": "p3",
+      "title": "Product 3 [fs]",
+      "description": "This is product 3 [fs]"
+    },
+    {
+      "id": "p4",
+      "title": "Product 4 [fs]",
+      "description": "This is product 4 [fs]"
+    },
+    {
+      "id": "p5",
+      "title": "Product 5 [fs]",
+      "description": "This is product 5 [fs]"
+    }
+  ]
+}
